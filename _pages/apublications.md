@@ -7,34 +7,55 @@ image:
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
 
+							
+						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2020. 
+						<a href="https://arxiv.org/abs/2012.00425" target="_blank">"Edge-assisted Democratized Learning Towards Federated Analytics.", </a>
+						(Under Review, <i>IEEE Internet of Things Journal</i></li>
+						
+						<li><strong>Pandey, S.R.,</strong> Kim, K., Alsenwi, M., Tun, Y.K., Han, Z. and Hong, C.S., 2020. 
+						<a href="https://arxiv.org/abs/2011.13097" target="_blank">"Latency-sensitive Service Delivery with UAV-Assisted 5G Networks.", </a>
+						(Under Review, <i>IEEE Wireless Communications Letters</i></li>
 
+						<li>Le, T.H.T., Tran, N.H., Tun, Y.K., Nguyen, M.N., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2020. 
+						<a href="https://arxiv.org/abs/2009.10269" target="_blank">"An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach", </a>
+						(Under Minor Revision, <i>IEEE Transactions on Wireless Communications</i></li>		
+
+						<li>Zaw, C.W., <strong>Pandey, S.R.,</strong> Kim, K. and Hong, C.S., 2020.<a href="">"Energy-aware Resource Management for Federated Learning in Multi-access Edge Computing Systems.", </a>
+						(Accepted, <i>IEEE Access</i></li>						
+							
+						<li>Tun, Y.K., Park, Y.M., Tran, N.H., Saad, W., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2020.<a href="">"Energy-efficient resource management in UAV-assisted mobile edge computing.", </a>
+						(in press, <i>IEEE Communications Letters</i></li>
+						
+						 <li>Manzoor, A., Kazmi, S.A., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2020. <a href="">"Contract-based Scheduling of URLLC Packets in Incumbent EMBB Traffic", </a> 
+							(in press, <i>IEEE Access).</i></li>						
+							
+						
+						<li><strong>Khan, L. U.*, Pandey, S.R.*,</strong> Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
+							Hong, C. S., Nov 2020. <a href="https://arxiv.org/abs/1911.05642" target="_blank">
+								"Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism.", </a> 
+									<i>IEEE Communication Magazine (*Equal Contribution).</i></li>
+									
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong>Thar, K., Tran, N. H., Chen, M., Saad, W.,
 							Hong, C. S., 2020. <a href="https://arxiv.org/pdf/2003.09301.pdf" target="_blank">"Distributed and Democratized Learning: Philosophy
 							and Research Challenges", </a> (
 							<i>IEEE Computational Intelligence Magazine).</i></li>
+				
 							
-						
-						<li><strong>Khan, L. U.*, Pandey, S.R.*,</strong> Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
-							Hong, C. S., 2019. <a href="https://arxiv.org/abs/1911.05642" target="_blank">
-								"Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism.", </a> 
-									<i>IEEE Communication Magazine (*Equal Contribution).</i></li>
-
 						<li><strong>Pandey, S.R.,</strong> N. H. Tran, M. Bennis, Y. K. Tun, A. Manzoor, and C. S. Hong.,
 							2020. <a href="https://arxiv.org/abs/1911.01046" target="_blank">"A Crowdsourcing Framework for On-Device Federated Learning"", </a> (in press,
 							<i>IEEE Transactions on Wireless Communications. DOI:10.1109/TWC.2020.2971981).</i></li>
 
-						<li>Suhail, S., Abdellatif, M., <strong>Pandey, S.R.,</strong> Khan, A. and Hong, C.S., 2020.
+						<li>Suhail, S.,  Hussain, R., Abdellatif, M., <strong>Pandey, S.R.,</strong> Khan, A. and Hong, C.S., 2020.
 							<a href="https://arxiv.org/pdf/1811.06143.pdf" target="_blank">"Provenance-enabled Packet Path Tracing in the RPL-based Internet of
 								Things, </a> (in press, <i>Computer Networks).</i></li>
 
 						 <li>Manzoor, A., Kim, K, <strong>Pandey, S.R.,</strong> Tran, N.H., Saad, W., Kazmi, S.A.,
 							Pandey, S.R. and Hong, C.S., 2020. <a href="">"Ruin Theory for Energy-Efficient Resource Allocation in UAV-assisted Cellular Networks", </a> 
-							(Under Review, <i>IEEE Transactions on Communications).</i></li>
+							(Under Major Revision, <i>IEEE Transactions on Communications).</i></li>
 
 						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.
 							S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence
-								in 5G and Beyond: A Deep Reinforcement Learning Based Approach."", </a> (Under Review, <i>IEEE Transactions on Wireless Communications).</i></li>
-
+								in 5G and Beyond: A Deep Reinforcement Learning Based Approach."", </a> (Under Minor Revision, <i>IEEE Transactions on Wireless Communications).</i></li>
 
 
 						<li>Tun, Y.K., Ndikumana, A., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2019. <a href="">"Joint
@@ -45,8 +66,7 @@ image:
 								<a href="">"Towards Coexistence of Cellular and WiFi Networks in Unlicensed Spectrum: A Neural Networks Based Approach", </a> (
 										<i>IEEE Access, vol. 7, pp. 110023 - 110034, Aug).</i></li>						
 				
-						<li>Tun, Y.K., Tran, N.H., Ngo, D.T., <strong>Pandey, S.R.,</strong>
- Han, Z. and Hong, C.S., 2019. <a href="https://arxiv.org/pdf/1907.02182.pdf">
+						<li>Tun, Y.K., Tran, N.H., Ngo, D.T., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2019. <a href="https://arxiv.org/pdf/1907.02182.pdf">
 									"Wireless Network Slicing: Generalized Kelly Mechanism Based Resource
 											Allocation", </a> (<i>IEEE Journal on Selected Areas in Communications, Vol. 37, pp.
 												1794-1807, July).</i></li>
@@ -55,8 +75,7 @@ image:
 							C.S., 2018. <a href="">"Ruin Theory for Dynamic Spectrum Allocation in LTE-U Networks", </a> 
 								(<i>IEEE Communications Letters, 23(2), pp.366-369).</i></li>
 
-						<li><strong>Pandey, S.R.,</strong>
- Suhail, S. and Hong, C.S., 2017. <a href="">"Q-learning Supplemented Crowdsensing Framework for Resource Constrained Devices", </a> 
+						<li><strong>Pandey, S.R.,</strong> Suhail, S. and Hong, C.S., 2017. <a href="">"Q-learning Supplemented Crowdsensing Framework for Resource Constrained Devices", </a> 
 										(<i>KIISE Transactions on Computing Practices, 24(7), pp. 1239-1241).</i></li>
 				
 
@@ -66,6 +85,16 @@ image:
 
 <h2 align="left"> <font color="darkmagenta">International Conferences </font></h2>
 <ol reversed>
+
+    <li>Pandey, S.R., Kim, k., Alsenwi, M., Tun, Y.K. and Hong, C.S., 2021
+						<a href="#">"A Crowd-enabled Task Execution Approach in UAV Networks Towards Fog Computing", </a> 
+						IEEE International Conference on Big Data and Smart Computing (BigComp). Jeju Island, Korea. (Oral Presentation)</li>
+
+	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., Ei, N. N. and Hong, C.S., 2020
+						<a href="#">"AV-Assisted Multi-Access Edge Computing System: An Energy-Efficient Resource Management Framework", </a> 
+						International Conference on Information Networking (ICOIN) IEEE. pp. 214-219. Barcelona, Spain. (Oral Presentation)</li>
+
+
 	<li>S. R. Pandey, N. H. Tran, M. Bennis, Y. K. Tun, Z. Han, and C. S. Hong. <a href="#">"Incentivize to Build: A Crowdsourcing Framework for Federated Learning", </a> IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9 - 13 December 2019.</li>
 
 	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., and Hong, C.S.,
