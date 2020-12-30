@@ -18,8 +18,7 @@ So then, who are successful people? — those who have the courage to accept the
 Let’s hope along with this concept in the following rough illustration.
 
 ![]({{site.baseurl}}/assets/img/convexity.png)
-
-Fig. 1: The Curse of Convexity (For illustration purpose only.)
+Fig. 1: The Curse of Convexity (for illustration purpose only).
 
 <strong>T</strong>he grandeur of human existence is in their ability to handle pride and acknowledge the curse of convexity. What we firmly believe does not necessarily be the reality — or, the only truth. That means we [most of us] are fundamentally limited by our abilities to comprehend all the facts surrounding a scenario. In such a case, when we hastily deduce first-hand conclusions for a matter, it is very hard for us to switch for and adhere to the alternative ideologies later onwards. This not only hinders the exposition of a broader perspective but also creates conflict and chaos in the learning process. Due to this reason, most of us fall into the personal pit of suffering, and just because of the limitations of our own thoughts — our rigidity in ‘this can never be the other way’. What such instances do is we barely allow ourselves to participate in a meaningful discussion: in virtue of understanding.
 
