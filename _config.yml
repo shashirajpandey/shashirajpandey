@@ -1,0 +1,68 @@
+title: Shashi Raj Pandey - a random thought scribbler
+logo:  # you can add own logo.
+description: "| Network Economics | Game Theory | Wireless Communcations | Distributed Machine Learning |"
+baseurl: "/shashirajpandey" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Author Settings
+author:
+  name: Shashi Raj Pandey
+  image: '/assets/img/Profile_pic.jpg'
+  job: Ph.D. Student, Computer Science and Engineering
+  bio: "| Network Economics | Game Theory | Wireless Communcations | Distributed Machine Learning |"
+  email: shashir101@gmail.com
+
+
+# Contact links
+contact:
+  - name: Twitter
+    link: https://twitter.com/shashirajpandey
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/shashirajpandey/
+  - name: Google Scholar
+    link: https://scholar.google.com/citations?user=yFmz36AAAAAJ&hl=en
+  - name: Little Things
+    link: http://shashirpandey.blogspot.com/
+
+
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
+
+
+# Google Analytics
+google-analytics: # add your identifier. For example UA-99631805-1.
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll/tagging
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag-page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
