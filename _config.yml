@@ -1,7 +1,7 @@
 title: Shashi Raj Pandey - a random thought scribbler
 logo:  # you can add own logo.
 description: "| Network Economics | Game Theory | Wireless Communcations | Distributed Machine Learning |"
-baseurl: "/shashirajpandey.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/shashirajpandey.github.io" # the subpath of your site, e.g. /blog
 url: "http://shashirajpandey.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
