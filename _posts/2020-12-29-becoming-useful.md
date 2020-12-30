@@ -17,7 +17,7 @@ First and foremost, success is not just the ultimate goal. In fact, it will be t
 So then, who are successful people? — those who have the courage to accept the curse of convexity, and be useful in finding the reality.
 Let’s hope along with this concept in the following rough illustration.
 
-Image for post
+![]({{site.baseurl}}/assets/img/convexity.png)
 
 Fig. 1: The Curse of Convexity (For illustration purpose only.)
 
