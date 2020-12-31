@@ -12,10 +12,10 @@ For the past few years, I am working as a researcher in wireless communications,
 
 ***
 <center>For some who have mastered,</center>  
-<center>For some who have failed to-</center> 
-There's a way out for everyone  
-Who has put their hearts into;  
-"Making an effort"
+<center>For some who have failed to-</center>  
+<center>There's a way out for everyone</center>   
+<center>Who has put their hearts into;</center>  
+<center>"Making an effort"</center> 
 
 
 ***
