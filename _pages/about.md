@@ -12,7 +12,7 @@ For the past few years, I am working as a researcher in wireless communications,
 
 ***
 <center>
->For some who have mastered,  
+For some who have mastered,  
 For some who have failed to-  
 There's a way out for everyone  
 Who has put their hearts into;  
