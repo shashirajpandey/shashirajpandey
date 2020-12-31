@@ -57,8 +57,8 @@ Collaborators: Kyung Hee University, KAIST, Seoul National University, Data Alli
 
 <li> <strong>Undergraduate Projects, </strong>Kathmandu University<div class="pull-right"> 2009 - 2013.</div>
 	<ul>
-		<li><b>Final year research project</b>Modeling and Simulation of WiMAX/IEEE 802.16e Physical Layer</li>
-		<li><b>Miscellaneous projects</b>3D LED-Display, Wall Following Robot, IR Switch, Filters Design </li>
+		<li><b>Final year research project</b>  Modeling and Simulation of WiMAX/IEEE 802.16e Physical Layer</li>
+		<li><b>Miscellaneous projects</b>  3D LED-Display, Wall Following Robot, IR Switch, Filters Design </li>
 
 	</ul>
 	
