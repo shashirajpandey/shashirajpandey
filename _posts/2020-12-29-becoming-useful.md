@@ -3,7 +3,7 @@ layout: post
 title:  The Willingness of Becoming Helpful
 date:   2020-12-28 15:01:35 +0300
 image:  '/assets/img/02.jpg'
-tags:   [travel, london, work, blog]
+tags: [life,blog]
 ---
 <p>There’s a question on my mind for quite long. “How far one’s optimism alone can take them to?”. Well, this post is less likely about my quest for finding the answer to this question. I am more intrigued by the fact that optimism is the inertia of trials in accepting the reality- whether putting an effort in doing things for or else, waiting for the things to happen by itself. To speak the truth, my personal experience is, optimism solely can never bring success.</p>
 
