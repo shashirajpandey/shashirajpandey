@@ -25,14 +25,6 @@ contact:
   - name: Little Things
     link: http://shashirpandey.blogspot.com/
 
-collections:
-  tags:
-    output: true
-    permalink: /tags/:name/ # optional
-  categories:
-    output: true
-    permalink: /:name/ # optional
-
 # Comment Section (Disqus)
 disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
