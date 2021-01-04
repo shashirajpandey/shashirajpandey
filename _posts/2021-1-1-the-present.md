@@ -3,7 +3,7 @@ layout: post
 title:  “Not Expressing The ‘Present’ — Overshooting For The Future”
 date:   2021-1-1 15:01:35 +0300
 image:  '/assets/img/sunrise.jpg'
-tags:   [blog]
+tags:   blog
 ---
 **[1] The 'Unacknowledged' Present**
 <p>Imagine the time we slip into voidness-which, for me, would be an epitome of personal narratives: trying to conquer and give up, at once. Long past those days, I used to collect things for memories. These days I do not collect anything for any reason. Once we lose their meaning to the 'present', it does not matter where you put your memories into. Good moments may decay - you cannot always pick them up from memory lane. Time becomes irrelevant under such circumstances. Basically, what has gone, is gone - and will count just an experience-over some achievements or failures. What will come is unknown, and can be loosely assumed or expected, when some known apriori. However, carrying pandemonium over the futile future whilst gratifying the old past is definitely not a good thing to do, I think. The 'present' is the only reachable entity -where you can interact with the environment. Else is a myth which most of us have exaggerated - when it comes to having the access, an intervention to mold or disintegrate; to realize.</p>  
