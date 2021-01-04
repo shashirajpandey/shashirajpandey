@@ -27,6 +27,13 @@ layout: default
     </div>
     {% endif %}
 
+    <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+  ]</span>
+    
     <div class="post__share">
       <ul class="share__list list-reset">
         <li class="share__item">
