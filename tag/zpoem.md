@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Poems"
+title: "Tag: poem"
 tag: poem
 ---
