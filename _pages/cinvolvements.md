@@ -10,11 +10,11 @@ image:
 
 	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
 
-	<li><b>IEEE ComSoc Member</b><div class="pull-right"> 2018-present</div></li>
-						
-	<li><b>Registered Engineer, Category A, Nepal Engineering Council (NEC)</b><div class="pull-right"> 2013</div></li>
+	<li><b>IEEE ComSoc Member</b><div class="pull-right"> 2020-present</div></li>
 											
     <li><b>University Coordinator,</b> SONSIK<div class="pull-right"> 2019-2021</div></li>
+    
+    	<li><b>Registered Engineer, Category A, Nepal Engineering Council (NEC)</b><div class="pull-right"> 2013</div></li>
 
 	<li><b>Editor, </b>Tech-Brief Newsletter, SEEE, KU <div class="pull-right"> 2012</div></li>
 
