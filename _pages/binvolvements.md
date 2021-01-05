@@ -34,6 +34,7 @@ image:
 	<ul>
 	<li>IEEE Globecom, ICC (EML5G), 5G-WF, SmartGridComm, IWCMC.</li>
     </ul>
+  </li>
 
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
