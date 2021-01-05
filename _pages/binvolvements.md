@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Involvements
+title: Collaborators and Involvements
 permalink: /involvements/
 image: 
 ---
