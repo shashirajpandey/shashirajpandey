@@ -7,12 +7,11 @@ layout: default
   <article class="post">
     <div class="post__head" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
       <h1 class="post__title">{{ page.title | escape }}</h1>
-          <span>[
-          {% for tag in page.tags %}
-          {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-          {% endfor %}
-          ]</span>
+       <span>[{% for tag in page.tags %}
+         {% capture tag_name %}{{ tag }}{% endcapture %}
+         <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+         {% endfor %}
+         ]</span>
       
       <div class="post__date">
         <time datetime="{{ page.date | date_to_xmlschema }}">Published {{page.date | date: '%b %d, %Y'}}</time>
