@@ -38,7 +38,6 @@ image:
 
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
-	<ul>
 	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2019-present</div></li>
 
     	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
@@ -60,7 +59,5 @@ image:
         <li><b>Member, </b>Amnesty International, KU Youth Network, KU</li>
 
         <li><b>Member, </b>Youth Redcross Circle, KU</li>
-	
-	</ul>
 
 
