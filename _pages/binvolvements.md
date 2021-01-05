@@ -6,10 +6,6 @@ image:
 ---
 
 <h2 align="center"> <font color="darkmagenta">Collaborators</font></h2>
-
-
-<h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
-  <li>
     <ul>
 	<li><a href="https://nguyenhoangtran.github.io/" target="_blank"> Prof. Nguyen H. Tran</a>, The University of Sydney, NSW, Australia</li>
 	<li><a href="https://sites.google.com/view/dr-mehdi-bennis/home" target="_blank"> Prof. Mehdi Bennis</a>, University of Oulu, Finland</li>
@@ -18,10 +14,10 @@ image:
 	<li><a href="https://nhatminh.github.io/" target="_blank"> Dr. Minh N. H. Nguyen</a>, Kyung Hee University, South Korea</li>
 
     </ul>
-  </li>
 
 
 
+<h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
   <li><strong>Journal Reviewer</strong>
     <ul>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
