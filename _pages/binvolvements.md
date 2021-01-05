@@ -7,11 +7,11 @@ image:
 
 <h2 align="center"> <font color="darkmagenta">Collaborators</font></h2>
     <ul>
-		<li><a href="https://nguyenhoangtran.github.io/" target="_blank"> Prof. Nguyen H. Tran</a>, The University of Sydney, NSW, Australia</li>
-		<li><a href="https://sites.google.com/view/dr-mehdi-bennis/home" target="_blank"> Prof. Mehdi Bennis</a>, University of Oulu, Finland</li>
-	        <li><a href="http://www2.egr.uh.edu/~zhan2/" target="_blank"> Prof. Zhu Han</a>, University of Houston, Texas, USA</li>
-		<li><a href="http://www.netsciwis.com/" target="_blank"> Prof. Walid Saad</a>, Virginia Tech, USA</li>
-		<li><a href="https://nhatminh.github.io/" target="_blank"> Dr. Minh N. H. Nguyen</a>, Kyung Hee University, South Korea</li>
+	<li><a href="https://nguyenhoangtran.github.io/" target="_blank"> Prof. Nguyen H. Tran</a>, The University of Sydney, NSW, Australia</li>
+	<li><a href="https://sites.google.com/view/dr-mehdi-bennis/home" target="_blank"> Prof. Mehdi Bennis</a>, University of Oulu, Finland</li>
+	<li><a href="http://www2.egr.uh.edu/~zhan2/" target="_blank"> Prof. Zhu Han</a>, University of Houston, Texas, USA</li>
+	<li><a href="http://www.netsciwis.com/" target="_blank"> Prof. Walid Saad</a>, Virginia Tech, USA</li>
+	<li><a href="https://nhatminh.github.io/" target="_blank"> Dr. Minh N. H. Nguyen</a>, Kyung Hee University, South Korea</li>
     </ul>
 
 
@@ -36,14 +36,14 @@ image:
 
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
-<ul>
+	<ul>
 	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2019-present</div></li>
 
-	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
+    	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
 
 	<li><b>IEEE ComSoc Member</b><div class="pull-right"> 2020-present</div></li>
 											
-    <li><b>University Coordinator,</b> SONSIK<div class="pull-right"> 2019-2021</div></li>
+        <li><b>University Coordinator,</b> SONSIK<div class="pull-right"> 2019-2021</div></li>
     
     	<li><b>Registered Engineer, Category A, Nepal Engineering Council (NEC)</b><div class="pull-right"> 2013</div></li>
 
@@ -55,9 +55,9 @@ image:
 	
 	<li><b>Contributor, </b>Eco-Active Forum, KU<div class="pull-right"> 2010</div></li>
 
-    <li><b>Member, </b>Amnesty International, KU Youth Network, KU</li>
+        <li><b>Member, </b>Amnesty International, KU Youth Network, KU</li>
 
-    <li><b>Member, </b>Youth Redcross Circle, KU</li>
+        <li><b>Member, </b>Youth Redcross Circle, KU</li>
 	
 	</ul>
 
