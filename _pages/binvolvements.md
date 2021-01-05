@@ -4,13 +4,6 @@ title: Collaborators and Involvements
 permalink: /involvements/
 image: 
 ---
-<h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
-<ul>
-	<li><a href="https://nguyenhoangtran.github.io/" target="_blank"> Prof. Nguyen H. Tran</a>, The University of Sydney, NSW, Australia</li>
-
-</ul>
-
-
 <h2 align="center"> <font color="darkmagenta">Collaborators</font></h2>
 <ul>
 	<li><a href="https://nguyenhoangtran.github.io/" target="_blank"> Prof. Nguyen H. Tran</a>, The University of Sydney, NSW, Australia</li>
