@@ -13,8 +13,6 @@ image:
 	<li><b>Brain Korea 21st Century Plus Fellowship </b><div class="pull-right"> 2018-present</div></li>
 
 	<li><b>Ministry of Science and ICT Fellowship </b>, Republic of Korea<div class="pull-right"> 2018-present</div></li>
-						
-	<li><b>Brain Korea 21st Century Plus Fellowship </b><div class="pull-right"> 2018-present</div></li>
 											
 	<li><b>Presidential Scholarship </b>at Kyung Hee University<div class="pull-right"> 2016-2018</div></li>
 
