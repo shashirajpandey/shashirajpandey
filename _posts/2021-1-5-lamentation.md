@@ -27,5 +27,6 @@ Blue merely is a reflection of 'emptiness'.
 In no time, being under the open sky   
 Became a redemption for many of us-  
 It was there, but we were not,  
-To breathe in every corner of it.
+To breathe in every corner of it.  
+
 ~
