@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Lamentation”
+title:  Lamentation
 date:   2021-1-5 15:01:35 +0300
 image:  '/assets/img/lamentation.jpg'
 tags: poem
