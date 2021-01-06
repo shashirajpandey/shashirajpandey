@@ -11,6 +11,8 @@ image:
 	<li><a href="http://www2.egr.uh.edu/~zhan2/" target="_blank"> Prof. Zhu Han</a>, University of Houston, Texas, USA</li>
 	<li><a href="http://www.netsciwis.com/" target="_blank"> Prof. Walid Saad</a>, Virginia Tech, USA</li>
 	<li><a href="https://nhatminh.github.io/" target="_blank"> Dr. Minh N. H. Nguyen</a>, Kyung Hee University, South Korea</li>
+	<li><a href="https://scholar.google.com/citations?user=ihhbL1kAAAAJ&hl=en" target="_blank"> Dr. Yan Kyaw Tun</a>, Kyung Hee University, South Korea</li>
+	<li><a href="https://scholar.google.com/citations?user=DXu5M3QAAAAJ&hl=en" target="_blank"> Madyan Alsenwi</a>, Kyung Hee University, South Korea</li>
 
 </ul>
 
