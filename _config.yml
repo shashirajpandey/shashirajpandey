@@ -8,7 +8,7 @@ url: "http://shashirajpandey.github.io" # the base hostname & protocol for your 
 # Author Settings
 author:
   name: Shashi Raj Pandey
-  image: '/assets/img/profile_pic.jpg'
+  image: '/assets/img/profile.jpg'
   job: "a random thought scribbler"
   bio: "| Network Economics | Game Theory | Wireless Communcations | Distributed Machine Learning |"
   email: shashir101@gmail.com
