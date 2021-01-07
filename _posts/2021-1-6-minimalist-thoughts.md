@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My "minimalist" thoughts
-date:   2021-1-7 15:01:35 +0300
+date:   2021-1-6 15:01:35 +0300
 image:  '/assets/img/minimal.jpg'
 tags: poem
 ---
