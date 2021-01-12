@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Thinnking about home
-date:   2021-1-5 15:01:35 +0300
+date:   2021-1-12 15:01:35 +0300
 image:  '/assets/img/home.jpg'
 tags: poem
 ---
