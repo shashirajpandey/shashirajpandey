@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Thinnking about home
+title:  Thinking about home
 date:   2021-1-12 15:01:35 +0300
 image:  '/assets/img/home.jpg'
 tags: poem
