@@ -18,7 +18,7 @@ home, people; you in those
 beautiful moments I've had.  
 
 And then,  
-immensely submerged in nostalgia;  
+immensely submerged in nostalgia:  
 an anecdote of happiness,  
 I travel back in time,  
 with these clouds of thoughts.  
