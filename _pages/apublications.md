@@ -91,42 +91,42 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
     <li>Pandey, S.R., Kim, k., Alsenwi, M., Tun, Y.K. and Hong, C.S., 2021
 						<a href="#">"A Crowd-enabled Task Execution Approach in UAV Networks Towards Fog Computing", </a> 
-						IEEE International Conference on Big Data and Smart Computing (BigComp). Jeju Island, Korea. (Oral Presentation)</li>
+						IEEE International Conference on Big Data and Smart Computing (BigComp) 2021. Jeju Island, Korea. (Oral Presentation)</li>
 
 	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., Ei, N. N. and Hong, C.S., 2020
-						<a href="#">"AV-Assisted Multi-Access Edge Computing System: An Energy-Efficient Resource Management Framework", </a> 
+						<a href="#">"UAV-Assisted Multi-Access Edge Computing System: An Energy-Efficient Resource Management Framework", </a> 
 						International Conference on Information Networking (ICOIN) IEEE. pp. 214-219. Barcelona, Spain. (Oral Presentation)</li>
 
 
 	<li>S. R. Pandey, N. H. Tran, M. Bennis, Y. K. Tun, Z. Han, and C. S. Hong. <a href="#">"Incentivize to Build: A Crowdsourcing Framework for Federated Learning", </a> IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9 - 13 December 2019.</li>
 
-	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., and Hong, C.S.,
+	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., and Hong, C.S., 2019
 							<a href="#">"A Hopfield Neural Networks Based Mechanism for Coexistence of LTE-U and WiFi Networks in Unlicensed Spectrum", </a> 
 							20th Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE. 18 - 20 September,
 							Matsue, Japan. <font color="Red">(Student Best Paper Award) </font></li>
 					
 							
-	<li>Tun, Y.K., Alsenwi, M., Pandey, S.R., Zaw, C.W. and Hong, C.S.,
+	<li>Tun, Y.K., Alsenwi, M., Pandey, S.R., Zaw, C.W. and Hong, C.S., 2019
 						<a href="#">"Energy Efficcient Multi-Tenant Resource Slicing in Virtualized Multi-Access Edge Computing, </a> 
 						20th Asia-Pacific Network Operations and Management Symposium (APNOMS). IEEE. 18 - 20 September,
 						Matsue, Japan.</li>
 					
-	<li>Alsenwi, M., Pandey, S.R., Tun, Y.K., Kim, K.T. and Hong, C.S.,
+	<li>Alsenwi, M., Pandey, S.R., Tun, Y.K., Kim, K.T. and Hong, C.S., 2019
 						<a href="#">"A Chance Constrained Based Formulation for Dynamic Multiplexing of eMBB-URLLC Traffics in 5G New Radio", </a> 
 						International Conference on Information Networking (ICOIN) IEEE. pp. 108-113. Kuala Lumpur, Malaysia. (Oral Presentation)</li>
 
 										
-	<li>Tun, Y.K., Pandey, S.R., Alsenwi, M., Zaw, C.W. and Hong, C.S.,
+	<li>Tun, Y.K., Pandey, S.R., Alsenwi, M., Zaw, C.W. and Hong, C.S., 2019
 						<a href="#">"Weighted Proportional Allocation Based Power Allocation in Wireless Network Virtualization for Future Wireless Networks, </a> 
 						International Conference on Information Networking (ICOIN) IEEE. pp. 284-289. Kuala Lumpur, Malaysia. (Oral Presentation)</li>
 						
 					
-    <li>Pandey, S.R., Alsenwi, M., Tun, Y.K. and Hong, C.S.,
+    <li>Pandey, S.R., Alsenwi, M., Tun, Y.K. and Hong, C.S., 2019
 						<a href="#">"A Downlink Resource Scheduling Strategy for URLLC Traffic", </a> 
 						IEEE International Conference on Big Data and Smart Computing (BigComp). pp.1-6. Kyoto University, Kyoto, Japan. (Oral Presentation)</li>
 
 
-	<li>Pandey, S.R. and Hong, C.S., <a href="#">"Response Driven Efficient Task Load Assignment in Mobile Crowdsourcing"</a> 
+	<li>Pandey, S.R. and Hong, C.S., 2018 <a href="#">"Response Driven Efficient Task Load Assignment in Mobile Crowdsourcing"</a> 
 						International Conference on Information Networking (ICOIN) IEEE. pp. 442-446. Chiang Mai, Thailand.</li>
 					
 	</ol>					
