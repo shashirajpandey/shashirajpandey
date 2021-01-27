@@ -5,7 +5,7 @@ permalink: /publications/
 image: 
 ---
 
-Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36AAAAAJ&hl=en" target="_blank"> google scholar profile </a> for a full list of publication. 
+Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36AAAAAJ&hl=en" target="_blank"> google scholar profile </a> for a full list of publications. 
 
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
