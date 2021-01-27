@@ -40,9 +40,7 @@ image:
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
 <ul>
-	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2019-present</div><div class="pull-right"> Manage ComSoc YP online contents and <a 		href="https://yp.comsoc.org/blog/" target="_blank"> blogs.</a></div><div class="pull-right"> Involved in organizing YP events at ComSoc Flagship Conferences (ICC, Globecom)</div></li>
-		
-	</div></li>
+	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2019-present</div><div class="pull-right"> Managing ComSoc YP online contents and <a 		href="https://yp.comsoc.org/blog/" target="_blank"> blogs.</a></div><div class="pull-right"> Organizing YP events at ComSoc's Flagship Conferences (ICC, Globecom)</div></li>
 
     	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
 
