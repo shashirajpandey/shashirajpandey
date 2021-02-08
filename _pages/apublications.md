@@ -10,6 +10,10 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
 
+						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.
+							S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence
+								in 5G and Beyond: A Deep Reinforcement Learning Based Approach."", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
+
 							
 						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2020. 
 						<a href="https://arxiv.org/abs/2012.00425" target="_blank">"Edge-assisted Democratized Learning Towards Federated Analytics.", </a>
@@ -56,9 +60,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 							Pandey, S.R. and Hong, C.S., 2020. <a href="">"Ruin Theory for Energy-Efficient Resource Allocation in UAV-assisted Cellular Networks", </a> 
 							(Under Major Revision, <i>IEEE Transactions on Communications).</i></li>
 
-						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.
-							S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence
-								in 5G and Beyond: A Deep Reinforcement Learning Based Approach."", </a> (Under Minor Revision, <i>IEEE Transactions on Wireless Communications).</i></li>
+
 
 
 						<li>Tun, Y.K., Ndikumana, A., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2019. <a href="">"Joint
