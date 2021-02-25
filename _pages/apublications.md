@@ -26,7 +26,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 						<li>Le, T.H.T., Tran, N.H., Tun, Y.K., Nguyen, M.N., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2020. 
 						<a href="https://arxiv.org/abs/2009.10269" target="_blank">"An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach", </a>
-						(Under Minor Revision, <i>IEEE Transactions on Wireless Communications</i>)</li>		
+						(in press, <i>IEEE Transactions on Wireless Communications</i>)</li>		
 
 						<li>Zaw, C.W., <strong>Pandey, S.R.,</strong> Kim, K. and Hong, C.S., 2020.<a href="">"Energy-aware Resource Management for Federated Learning in Multi-access Edge Computing Systems.", </a>
 						(Accepted, <i>IEEE Access</i>)</li>						
@@ -50,8 +50,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 				
 							
 						<li><strong>Pandey, S.R.,</strong> N. H. Tran, M. Bennis, Y. K. Tun, A. Manzoor, and C. S. Hong.,
-							2020. <a href="https://arxiv.org/abs/1911.01046" target="_blank">"A Crowdsourcing Framework for On-Device Federated Learning"", </a> (in press,
-							<i>IEEE Transactions on Wireless Communications. DOI:10.1109/TWC.2020.2971981).</i></li>
+							2020. <a href="https://arxiv.org/abs/1911.01046" target="_blank">"A Crowdsourcing Framework for On-Device Federated Learning"", </a> (in press, <i>IEEE Transactions on Wireless Communications. DOI:10.1109/TWC.2020.2971981).</i></li>
 
 						<li>Suhail, S.,  Hussain, R., Abdellatif, M., <strong>Pandey, S.R.,</strong> Khan, A. and Hong, C.S., 2020.
 							<a href="https://arxiv.org/pdf/1811.06143.pdf" target="_blank">"Provenance-enabled Packet Path Tracing in the RPL-based Internet of
