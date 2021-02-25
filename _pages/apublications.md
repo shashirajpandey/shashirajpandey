@@ -10,9 +10,10 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
 
-						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.
-							S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence
-								in 5G and Beyond: A Deep Reinforcement Learning Based Approach."", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
+						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2020.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (under review, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
+
+
+						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
 
 							
 						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2020. 
@@ -40,7 +41,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						<li><strong>Khan, L. U.*, Pandey, S.R.*,</strong> Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
 							Hong, C. S., Nov 2020. <a href="https://arxiv.org/abs/1911.05642" target="_blank">
 								"Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism.", </a> 
-									<i>IEEE Communication Magazine (*Equal Contribution).</i></li>
+									<i>IEEE Communications Magazine (*Equal Contribution).</i></li>
 									
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong>Thar, K., Tran, N. H., Chen, M., Saad, W.,
 							Hong, C. S., 2020. <a href="https://arxiv.org/pdf/2003.09301.pdf" target="_blank">"Distributed and Democratized Learning: Philosophy
