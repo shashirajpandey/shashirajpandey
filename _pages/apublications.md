@@ -22,7 +22,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						
 						<li><strong>Pandey, S.R.,</strong> Kim, K., Alsenwi, M., Tun, Y.K., Han, Z. and Hong, C.S., 2020. 
 						<a href="https://arxiv.org/abs/2011.13097" target="_blank">"Latency-sensitive Service Delivery with UAV-Assisted 5G Networks.", </a>
-						(Under Revision, <i>IEEE Wireless Communications Letters</i>)</li>
+						(in press, <i>IEEE Wireless Communications Letters</i>)</li>
 
 						<li>Le, T.H.T., Tran, N.H., Tun, Y.K., Nguyen, M.N., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2020. 
 						<a href="https://arxiv.org/abs/2009.10269" target="_blank">"An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach", </a>
