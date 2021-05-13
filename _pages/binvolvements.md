@@ -43,7 +43,7 @@ image:
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
 <ul>
-	<li><b>Member-at-Large,</b> IEEE ComSoc On-line Content Board<div class="pull-right"> 2021</div></li>
+	<li><b>Member-at-Large,</b> IEEE ComSoc <a href="https://www.comsoc.org/about/boards/line-content-board" target="_blank">On-line Content Board.</a><div class="pull-right"> 2021</div></li>
 	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2020-present</div><div class="pull-right"> Managing ComSoc YP online contents and <a 		href="https://yp.comsoc.org/blog/" target="_blank"> blogs.</a></div><div class="pull-right"> Organizing YP events at ComSoc's Flagship Conferences (ICC, Globecom)</div></li>
 
     	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
