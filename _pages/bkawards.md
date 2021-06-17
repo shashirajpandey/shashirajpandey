@@ -8,6 +8,7 @@ image:
 
 <li><strong>Scholarships and Awards</strong>
 <ul>
+	<li><b>Excellent Paper </b>at Korea Computer Congress, KIISE<div class="pull-right"> 2021</div></li>
 	<li><b>Student Best Paper Award </b>at APNOMS<div class="pull-right"> 2019</div></li>
 
 	<li><b>Brain Korea 21st Century Plus Fellowship </b><div class="pull-right"> 2018-present</div></li>
