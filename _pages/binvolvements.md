@@ -24,6 +24,7 @@ image:
 <h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
   <li><strong>Journal Reviewer</strong>
     <ul>
+	    	<li>IEEE Journal on Selected Areas in Communications (JSAC) - SI- Distributed Learning over Wireless Edge Networks</li>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
 		<li>IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
 		<li> IEEE Communications Letters (COMML) </li>
