@@ -58,7 +58,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 						 <li>Manzoor, A., Kim, K, <strong>Pandey, S.R.,</strong> Tran, N.H., Saad, W., Kazmi, S.A.,
 							Pandey, S.R. and Hong, C.S., 2020. <a href="">"Ruin Theory for Energy-Efficient Resource Allocation in UAV-assisted Cellular Networks", </a> 
-							(Under Major Revision, <i>IEEE Transactions on Communications).</i></li>
+							(in press, <i>IEEE Transactions on Communications).</i></li>
 
 
 
