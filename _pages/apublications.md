@@ -100,7 +100,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						International Conference on Information Networking (ICOIN) IEEE. pp. 214-219. Barcelona, Spain. (Oral Presentation)</li>
 
 
-	<li>S. R. Pandey, N. H. Tran, M. Bennis, Y. K. Tun, Z. Han, and C. S. Hong. <a href="#">"Incentivize to Build: A Crowdsourcing Framework for Federated Learning", </a> IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9 - 13 December 2019.</li>
+	<li>Pandey, S.R., Tran, N. H., Bennis, Mehdi, Tun, Y.K., Han, Z. and Hong, C.S., <a href="#">"Incentivize to Build: A Crowdsourcing Framework for Federated Learning", </a> IEEE Global Communications Conference (GLOBECOM), Waikoloa, HI, USA, 9 - 13 December 2019.</li>
 
 	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., and Hong, C.S., 2019
 							<a href="#">"A Hopfield Neural Networks Based Mechanism for Coexistence of LTE-U and WiFi Networks in Unlicensed Spectrum", </a> 
