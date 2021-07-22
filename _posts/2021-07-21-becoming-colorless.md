@@ -13,6 +13,7 @@ I was all black and white.
 
 People, I don't remember who  
 "wisely" fixed me up - they said.  
+
 Over the years,  
 I was painted with myriad colors.  
 Possibly a  blend of green, dark blue,  
