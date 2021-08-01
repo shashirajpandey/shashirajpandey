@@ -12,9 +12,9 @@ image:
 	<li><a href="http://www.netsciwis.com/" target="_blank"> Prof. Walid Saad</a>, Virginia Tech, USA</li>
 	<li><a href="https://nhatminh.github.io/" target="_blank"> Dr. Minh N. H. Nguyen</a>, Kyung Hee University, South Korea</li>
 	<li><a href="https://scholar.google.com/citations?user=GSTzUxEAAAAJ&hl=en" target="_blank"> Dr. Sabah Suhail</a>, University of Tartu, Estonia</li>
-	<li><a href="https://scholar.google.com/citations?user=ihhbL1kAAAAJ&hl=en" target="_blank"> Dr. Yan Kyaw Tun</a>, Kyung Hee University, South Korea</li>
+	<!--<li><a href="https://scholar.google.com/citations?user=ihhbL1kAAAAJ&hl=en" target="_blank"> Dr. Yan Kyaw Tun</a>, Kyung Hee University, South Korea</li>
 	<li><a href="https://scholar.google.com/citations?user=DXu5M3QAAAAJ&hl=en" target="_blank"> Dr. Madyan Alsenwi</a>, Kyung Hee University, South Korea</li>	
-	<li><a href="https://scholar.google.com/citations?user=Upr3is4AAAAJ&hl=en" target="_blank"> Dr. Aunas Manzoor</a>, Kyung Hee University, South Korea</li> 
+	<li><a href="https://scholar.google.com/citations?user=Upr3is4AAAAJ&hl=en" target="_blank"> Dr. Aunas Manzoor</a>, Kyung Hee University, South Korea</li> -->
 	<li><a href="https://scholar.google.com/citations?user=aWJ83RoAAAAJ&hl=en" target="_blank"> Dr. Kyi Thar</a>, Kyung Hee University, South Korea</li> 
 
 </ul>
@@ -27,7 +27,7 @@ image:
 	    	<li>IEEE Journal on Selected Areas in Communications (JSAC) - SI- Distributed Learning over Wireless Edge Networks</li>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
 		<li>IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
-	    	<li>IEEE Internet of Things Journal (IoTJ) </li>
+	        <li>IEEE Internet of Things Journal (IoTJ) </li>
 		<li> IEEE Communications Letters (COMML) </li>
 		<li>IEEE Transactions on Vehicular Technology (TVT)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
