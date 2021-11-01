@@ -5,7 +5,7 @@ permalink: /about/
 image: '/assets/img/hawaii.jpg'
 ---
 
-I am a Postdoctoral Researcher at the <a href="https://www.es.aau.dk/sections-labs/connectivity/" target="_blank">Connectivity Section</a>, Aalborg University, Denmark working with Professor <a href="http://petarpopovski.es.aau.dk/" target="_blank">Petar Popoviski</a> at the intersection of Network Economics, Game Theory, Machine Learning and Data Markets.  
+I am a Postdoctoral Researcher at the <a href="https://www.es.aau.dk/sections-labs/connectivity/" target="_blank">Connectivity Section</a>, Aalborg University, Denmark working with Professor <a href="http://petarpopovski.es.aau.dk/" target="_blank">Petar Popovski</a> at the intersection of Network Economics, Game Theory, Machine Learning and Data Markets.  
 
 
 I received the B.E. degree in Electrical and Electronics with specialization in Communication from <a href="https://ku.edu.np/" target="_blank"> Kathmandu University</a>, Nepal. After graduation, I served as a Network Engineer at <a href="https://www.huawei.com/en/" target="_blank">Huawei Technologies Nepal Co. Pvt. Ltd</a>, Nepal from 2013 to 2016. In May 2021, I successfully defended my Ph.D. thesis titled "Federated Learning over Wireless Networks: Incentive Design and Game-theoretic Analysis" at the Department of Computer Science and Engineering, Kyung Hee University, South Korea. That's the making of "Dr. Shashi!" (and I feel humbled and shy to  write it here.)
