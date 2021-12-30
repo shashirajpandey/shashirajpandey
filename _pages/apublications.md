@@ -137,6 +137,6 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 <h2 align="left"> <font color="darkmagenta">Database</font></h2>
 <ol reversed>
 
-    <li>Thesis slides can be found <a href="Shashi_FinalDefense.pptx">"here", </a></li>
+    <li>Thesis slides can be found <a href="https://github.com/shashirajpandey/shashirajpandey.github.io/blob/gh-pages/assets/Shashi_FinalDefense.pptx">"here" </a></li>
 					
 	</ol>
