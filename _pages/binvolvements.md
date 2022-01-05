@@ -28,10 +28,12 @@ image:
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
 		<li>IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
 	        <li>IEEE Transactions on Wireless Communications (TWC) </li>
+	    	<li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
 	        <li>IEEE Internet of Things Journal (IoTJ) </li>
 		<li> IEEE Communications Letters (COMML) </li>
 		<li>IEEE Transactions on Vehicular Technology (TVT)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
+	        <li>IEEE Sensors Journal </li>
 		<li>IEEE Access</li>
 		<li> Elsevier Physical Communication (PHYCOM) </li>
 		<li>Journal of Communications and Networks (JCN)</li>
@@ -46,10 +48,12 @@ image:
 
 <h2 align="center"> <font color="darkmagenta">Memberships</font></h2>
 <ul>
+	<li><b>Editorial Staff,</b> IEEE ComSoc <a href="https://spectrum.ieee.org/st/about" target="_blank">The Institute's Editorial Advisory Board</a><div class="pull-right"> 2022-2024</div></li>
 	<li><b>Member-at-Large,</b> IEEE ComSoc <a href="https://www.comsoc.org/about/boards/line-content-board" target="_blank">On-line Content Board.</a><div class="pull-right"> 2021</div></li>
-	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2020-present</div><div class="pull-right"> Managing ComSoc YP online contents and <a 		href="https://yp.comsoc.org/blog/" target="_blank"> blogs.</a></div><div class="pull-right"> Organizing YP events at ComSoc's Flagship Conferences (ICC, Globecom)</div></li>
-
-    	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-present</div></li>
+	<li><b>Member-at-Large,</b> IEEE ComSoc YP<div class="pull-right"> 2020-2021</div><div class="pull-right"> Managing ComSoc YP online contents and <a 		href="https://yp.comsoc.org/blog/" target="_blank"> blogs.</a></div><div class="pull-right"> Organizing YP events at ComSoc's Flagship Conferences (ICC, Globecom)</div></li>
+	
+	<li><b>IEEE Member</b><div class="pull-right"> 2021 </div></li>
+    	<li><b>IEEE Student Member</b><div class="pull-right"> 2020-2021</div></li>
 
 	<li><b>IEEE ComSoc Member</b><div class="pull-right"> 2020-present</div></li>
 											
