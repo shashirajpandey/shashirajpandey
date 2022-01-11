@@ -9,9 +9,9 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
-						<li>Nguyen, L. D., <strong>Pandey, S.R.,</strong> Beatriz, S., Broering, A., & Popovski, P. (2021).<a href="https://arxiv.org/abs/2112.02870" target="_blank"> "A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data"</li> (under reivew)
+						<li>Nguyen, L. D., <strong>Pandey, S.R.,</strong> Beatriz, S., Broering, A., & Popovski, P. (2021).<a href="https://arxiv.org/abs/2112.02870" target="_blank"> "A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data" </a>(under reivew)</li> 
 						
-						<li>Popovski, P., Chiariotti, F., Croisfelt, V., Kalør, A.E., Leyva-Mayorga, I., Marchegiani, L., <strong>Pandey, S.R.,</strong> and Soret, B., 2021.<a href="https://arxiv.org/abs/2111.05811" target="_blank">"Internet of Things (IoT) Connectivity in 6G: An Interplay of Time, Space, Intelligence, and Value."</li>
+						<li>Popovski, P., Chiariotti, F., Croisfelt, V., Kalør, A.E., Leyva-Mayorga, I., Marchegiani, L., <strong>Pandey, S.R.,</strong> and Soret, B., 2021.<a href="https://arxiv.org/abs/2111.05811" target="_blank">"Internet of Things (IoT) Connectivity in 6G: An Interplay of Time, Space, Intelligence, and Value."</a></li>
 	
 	
 						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2020. 
