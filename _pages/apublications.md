@@ -9,12 +9,16 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
-
+						<li>Nguyen, L. D., <strong>Pandey, S.R.,</strong> Beatriz, S., Broering, A., & Popovski, P. (2021).<a href="https://arxiv.org/abs/2112.02870" target="_blank"> "A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data"</li> (under reivew)
+						
+						<li>Popovski, P., Chiariotti, F., Croisfelt, V., Kalør, A.E., Leyva-Mayorga, I., Marchegiani, L., <strong>Pandey, S.R.,</strong> and Soret, B., 2021.<a href="https://arxiv.org/abs/2111.05811" target="_blank">"Internet of Things (IoT) Connectivity in 6G: An Interplay of Time, Space, Intelligence, and Value."</li>
+	
+	
 						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2020. 
 						<a href="https://arxiv.org/abs/2012.00425" target="_blank">"Edge-assisted Democratized Learning Towards Federated Analytics.", </a>
 						(in press, <i>IEEE Internet of Things Journal</i>)</li>
 
-						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2020.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (under review, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
+						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2020.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (review after revision, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
 
 
 						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
