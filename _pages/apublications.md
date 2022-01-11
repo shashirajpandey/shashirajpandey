@@ -18,7 +18,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						<a href="https://arxiv.org/abs/2012.00425" target="_blank">"Edge-assisted Democratized Learning Towards Federated Analytics.", </a>
 						(in press, <i>IEEE Internet of Things Journal</i>)</li>
 
-						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2020.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (review after revision, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
+						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2020.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (under review after revision, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
 
 
 						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
