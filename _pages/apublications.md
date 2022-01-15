@@ -14,31 +14,31 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						<li>Popovski, P., Chiariotti, F., Croisfelt, V., Kalør, A.E., Leyva-Mayorga, I., Marchegiani, L., <strong>Pandey, S.R.,</strong> and Soret, B., 2021.<a href="https://arxiv.org/abs/2111.05811" target="_blank">"Internet of Things (IoT) Connectivity in 6G: An Interplay of Time, Space, Intelligence, and Value."</a></li>
 	
 	
-						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2020. 
+						<li><strong>Pandey, S.R.,</strong> Nguyen, M.N., Dang, T.N., Tran, N.H., Thar, K., Han, Z. and Hong, C.S., 2021. 
 						<a href="https://arxiv.org/abs/2012.00425" target="_blank">"Edge-assisted Democratized Learning Towards Federated Analytics.", </a>
 						(in press, <i>IEEE Internet of Things Journal</i>)</li>
 
-						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2020.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (under review after revision, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
+						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2021.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (under review after revision, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>
 
 
-						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2020. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
+						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2021. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
 
 						
-						<li><strong>Pandey, S.R.,</strong> Kim, K., Alsenwi, M., Tun, Y.K., Han, Z. and Hong, C.S., 2020. 
+						<li><strong>Pandey, S.R.,</strong> Kim, K., Alsenwi, M., Tun, Y.K., Han, Z. and Hong, C.S., 2021. 
 						<a href="https://arxiv.org/abs/2011.13097" target="_blank">"Latency-sensitive Service Delivery with UAV-Assisted 5G Networks.", </a>
 						(in press, <i>IEEE Wireless Communications Letters</i>)</li>
 
-						<li>Le, T.H.T., Tran, N.H., Tun, Y.K., Nguyen, M.N., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2020. 
+						<li>Le, T.H.T., Tran, N.H., Tun, Y.K., Nguyen, M.N., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2021. 
 						<a href="https://arxiv.org/abs/2009.10269" target="_blank">"An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach", </a>
 						(in press, <i>IEEE Transactions on Wireless Communications</i>)</li>		
 
-						<li>Zaw, C.W., <strong>Pandey, S.R.,</strong> Kim, K. and Hong, C.S., 2020.<a href="">"Energy-aware Resource Management for Federated Learning in Multi-access Edge Computing Systems.", </a>
+						<li>Zaw, C.W., <strong>Pandey, S.R.,</strong> Kim, K. and Hong, C.S., 2021.<a href="">"Energy-aware Resource Management for Federated Learning in Multi-access Edge Computing Systems.", </a>
 						(Accepted, <i>IEEE Access</i>)</li>						
 							
-						<li>Tun, Y.K., Park, Y.M., Tran, N.H., Saad, W., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2020.<a href="">"Energy-efficient resource management in UAV-assisted mobile edge computing.", </a>
+						<li>Tun, Y.K., Park, Y.M., Tran, N.H., Saad, W., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2021.<a href="">"Energy-efficient resource management in UAV-assisted mobile edge computing.", </a>
 						(in press, <i>IEEE Communications Letters</i></li>
 						
-						 <li>Manzoor, A., Kazmi, S.A., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2020. <a href="">"Contract-based Scheduling of URLLC Packets in Incumbent EMBB Traffic", </a> 
+						 <li>Manzoor, A., Kazmi, S.A., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2021. <a href="">"Contract-based Scheduling of URLLC Packets in Incumbent EMBB Traffic", </a> 
 							(in press, <i>IEEE Access).</i></li>						
 							
 						
