@@ -98,6 +98,8 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
     <li>Pandey, S.R., Kim, k., Alsenwi, M., Tun, Y.K. and Hong, C.S., 2021
 						<a href="#">"A Crowd-enabled Task Execution Approach in UAV Networks Towards Fog Computing", </a> 
 						IEEE International Conference on Big Data and Smart Computing (BigComp) 2021. Jeju Island, Korea. (Oral Presentation)</li>
+						<li>Nguyen, M.N., <strong>Pandey, S.R.,</strong> and Tran, N.H., 2020. 
+						<a href="https://dl.acm.org/doi/pdf/10.1145/3439602.3439617" target="_blank">"Distributed and Democratized Machine Learning at the Edge."</a>(ACM SIGMETRICS, <i>The International Workshop on Distributed Cloud Computing (DCC)</i>)</li>	
 
 	<li>Alsenwi, M., Tun, Y.K., Pandey, S.R., Ei, N. N. and Hong, C.S., 2020
 						<a href="#">"UAV-Assisted Multi-Access Edge Computing System: An Energy-Efficient Resource Management Framework", </a> 
