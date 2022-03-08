@@ -33,6 +33,7 @@ image:
 		<li> IEEE Communications Letters (COMML) </li>
 		<li>IEEE Transactions on Vehicular Technology (TVT)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
+	   	<li> IEEE Network </li>
 	        <li>IEEE Sensors Journal </li>
 		<li>IEEE Access</li>
 		<li> Elsevier Physical Communication (PHYCOM) </li>
