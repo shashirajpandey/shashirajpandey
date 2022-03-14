@@ -22,7 +22,7 @@ image:
 
 
 <h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
-  <li><strong>Journal Reviewer</strong>
+  <li><strong>Journal Reviewer</strong> [firstname][r][101][at]gmail[dot]com
     <ul>
 	    	<li>IEEE Journal on Selected Areas in Communications (JSAC) - SI- Distributed Learning over Wireless Edge Networks</li>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
