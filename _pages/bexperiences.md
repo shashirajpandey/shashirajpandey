@@ -65,4 +65,7 @@ Collaborators: Kyung Hee University, KAIST, Seoul National University, Data Alli
 	
 </li>
 
+<h2 align="center"> <font color="darkmagenta">Talks</font></h2>
+<li> <strong>Science and Research: Scope, Opportunities and Challenges ,</strong> <a href="" target="_blank"> A webinar at</a>, Hrit Academy, Kathmandu, Nepal<div class="pull-right">25 July, 2021.</div>
+</li>
 
