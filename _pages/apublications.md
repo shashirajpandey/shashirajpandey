@@ -13,7 +13,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 	
 						<li><strong>Pandey, S.R.,</strong> Nguyen, L.D. and Popovski, P., 2022.<a href="https://arxiv.org/abs/2203.05369" target="_blank">"A Contribution-based Device Selection Scheme in Federated Learning."</a> (under revision, <i>IEEE Communications Letters).</i></li>	
 	
-						<li>Nguyen, M. N., Le, H. Q., <strong>Pandey, S.R.,</strong> and, Hong, C.S., 2022.<a href="https://arxiv.org/abs/2204.01542" target="_blank">"CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning."</a> (under submission).</i></li>		
+						<li>Nguyen, M. N., Le, H. Q., <strong>Pandey, S.R.,</strong> and, Hong, C.S., 2022.<a href="https://arxiv.org/abs/2204.01542" target="_blank">"CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning."</a> (under submission).</li>		
 		
 	
 						<li>Nguyen, L. D., <strong>Pandey, S.R.,</strong> Beatriz, S., Broering, A., & Popovski, P. (2021).<a href="https://arxiv.org/abs/2112.02870" target="_blank"> "A Marketplace for Trading AI Models based on Blockchain and Incentives for IoT Data" </a>(under reivew)</li> 
