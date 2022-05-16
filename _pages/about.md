@@ -32,4 +32,4 @@ Aside, I enjoy reading books, playing guitar whenever possible, hiking to the mo
 > I also firmly believe in equal opportunity to access resources and making decision for both man and woman.
 
 ***
-Let me know about you too, I am not that boring. :)
+If you are interested in my research, want to collaborate, or just have a causal chat about it, please feel free to let me know. :)
