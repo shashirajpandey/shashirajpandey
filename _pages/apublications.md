@@ -11,7 +11,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 <ol reversed>
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2022.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (in press, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>	
 	
-						<li><strong>Pandey, S.R.,</strong> Nguyen, L.D. and Popovski, P., 2022.<a href="https://arxiv.org/abs/2203.05369" target="_blank">"A Contribution-based Device Selection Scheme in Federated Learning."</a> (under revision, <i>IEEE Communications Letters).</i></li>	
+						<li><strong>Pandey, S.R.,</strong> Nguyen, L.D. and Popovski, P., 2022.<a href="https://arxiv.org/abs/2203.05369" target="_blank">"A Contribution-based Device Selection Scheme in Federated Learning."</a> (in press, <i>IEEE Communications Letters).</i></li>	
 	
 						<li>Nguyen, M. N., Le, H. Q., <strong>Pandey, S.R.,</strong> and, Hong, C.S., 2022.<a href="https://arxiv.org/abs/2204.01542" target="_blank">"CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning."</a> (under submission).</li>		
 		
