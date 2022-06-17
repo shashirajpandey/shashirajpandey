@@ -50,7 +50,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 							(in press, <i>IEEE Access).</i></li>						
 							
 						
-						<li><strong>Pandey, S.R.*, Khan, L. U.*, <font color="Red">(*Equal Contribution, co-first author)</font></strong>, Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
+						<li><strong>Pandey, S.R.*,</strong> Khan, L. U.*, Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
 							Hong, C. S., Nov 2020. <a href="https://arxiv.org/abs/1911.05642" target="_blank">
 								"Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism.", </a> 
 									<i>IEEE Communications Magazine.</i></li>
