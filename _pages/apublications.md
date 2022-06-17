@@ -9,6 +9,9 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
+	<li>Christensen, R.B., <strong>Pandey, S.R.,</strong> and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.06650" target="_blank">"Semi-Private Computation of Data Similarity with Controlled Leakage."</a>(under review, <i>IEEE Transactions on Information Forensics & Security.)</i></li>
+							<li><strong>Pandey, S.R.,</strong> Pinson, P., and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.07785" target="_blank">"Participation and Data Valuation in IoT Data Markets through Distributed Coalitions."</a><i>(under review)</i></li>
+	
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2022.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (in press, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>	
 	
 						<li><strong>Pandey, S.R.,</strong> Nguyen, L.D. and Popovski, P., 2022.<a href="https://arxiv.org/abs/2203.05369" target="_blank">"A Contribution-based Device Selection Scheme in Federated Learning."</a> (in press, <i>IEEE Communications Letters).</i></li>	
