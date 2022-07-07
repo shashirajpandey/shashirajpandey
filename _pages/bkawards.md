@@ -33,7 +33,7 @@ image:
     <li><b>Nuchenarayan Ramdevi Takhache Sirapa Award </b>- presented to a student
 							who secure highest academic position <div class="pull-right"> 2006</div></li>
 
-    <li><b>Excellent Academic Performance Award</b>- first rank in the class<div class="pull-right"> 2006</div></li>
+    <li><b>Excellent Academic Performance Award</b>- first rank in the class <font color="Red">(Gold Medalist) </font><div class="pull-right"> 2006</div></li>
 
 	</ul>
 	</li>
