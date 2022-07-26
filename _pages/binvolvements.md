@@ -11,18 +11,12 @@ image:
 	<li><a href="http://www2.egr.uh.edu/~zhan2/" target="_blank"> Prof. Zhu Han</a>, University of Houston, Texas, USA</li>
 	<li><a href="http://www.netsciwis.com/" target="_blank"> Prof. Walid Saad</a>, Virginia Tech, USA</li>
 	<li><a href="https://nhatminh.github.io/" target="_blank"> Dr. Minh N. H. Nguyen</a>, Vietnam - Korea University of Information and Communication Technology - The University of Danang, Vietnam</li>
-	<!--<li><a href="https://scholar.google.com/citations?user=GSTzUxEAAAAJ&hl=en" target="_blank"> Dr. Sabah Suhail</a>, University of Tartu, Estonia</li>
-	<li><a href="https://scholar.google.com/citations?user=ihhbL1kAAAAJ&hl=en" target="_blank"> Dr. Yan Kyaw Tun</a>, Kyung Hee University, South Korea</li>
-	<li><a href="https://scholar.google.com/citations?user=DXu5M3QAAAAJ&hl=en" target="_blank"> Dr. Madyan Alsenwi</a>, Kyung Hee University, South Korea</li>	
-	<li><a href="https://scholar.google.com/citations?user=Upr3is4AAAAJ&hl=en" target="_blank"> Dr. Aunas Manzoor</a>, Kyung Hee University, South Korea</li> 
-	<li><a href="https://scholar.google.com/citations?user=aWJ83RoAAAAJ&hl=en" target="_blank"> Dr. Kyi Thar</a>, Kyung Hee University, South Korea</li> -->
-
 </ul>
 
 
 
 <h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
-  <li><strong>Journal Reviewer</strong> [firstname][r][101][at]gmail[dot]com
+  <li><strong>Journal Reviewer</strong> Please use: [firstname][r][101][at]gmail[dot]com
     <ul>
 	    	<li>IEEE Journal on Selected Areas in Communications (JSAC) - SI- Distributed Learning over Wireless Edge Networks</li>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
@@ -33,7 +27,10 @@ image:
 		<li> IEEE Communications Letters (COMML) </li>
 		<li>IEEE Transactions on Vehicular Technology (TVT)</li>
 		<li>IEEE Transactions on Mobile Computing (TMC)</li>
-	   	<li> IEEE Network </li>
+	    	<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
+	    	<li>ACM Transactions on Intelligent Systems and Technology</li>
+	    	<li>IEEE Transactions on Big Data </li>
+	   	<li> IEEE Network Magazine</li>
 	        <li>IEEE Sensors Journal </li>
 		<li>IEEE Access</li>
 		<li> Elsevier Physical Communication (PHYCOM) </li>
