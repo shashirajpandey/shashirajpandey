@@ -16,7 +16,13 @@ image:
 
 
 <h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
-  <li><strong>Journal Reviewer</strong> Please use: [firstname][r][101][at]gmail[dot]com
+  <li><strong>Technical Program Committee</strong>
+	<ul>
+	<li>ACM EmeRTeS 2023 (Co-located with ACM ICDCN)</li>
+	<li>IEEE GLOBECOM 2022 NextGRAN Workshop</li>
+    </ul>
+  </li>
+  <li><strong>Journal Reviewer</strong> Please use: [firstname][r][101][at]gmail[dot]com ; shashiraj[at]khu[dot]ac[dot]kr ; srp[at]es[dot]aau[dot]dk
     <ul>
 	    	<li>IEEE Journal on Selected Areas in Communications (JSAC) - SI- Distributed Learning over Wireless Edge Networks</li>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
