@@ -41,10 +41,10 @@ image:
 
 <li> <strong>Patents</strong>
 	<ul>
-		<li><b>Pandey, S. R., Suhail, S., et.al.,</b><a href="http://engpat.kipris.or.kr/engpat/searchLogina.do?next=MainSearch"> "Smart Contract-based Method and System for Purchasing Resources for Seamless Media Streaming at Mobile Edge".</a> Application No: 1020190157099. <div class="pull-right"> 2019</div></li>
+		<li><b>Pandey, S. R., Suhail, S., et.al.,</b><a href="http://engpat.kipris.or.kr/engpat/searchLogina.do?next=MainSearch"> "Smart Contract-based Method and System for Purchasing Resources for Seamless Media Streaming at Mobile Edge".</a> Registration No: 1024351880000. KIPO <div class="pull-right"> 2022</div></li>
 	
 		<li><b>Suhail, S., Pandey, S. R., Kim, Young-ki, and Hong, C.S.,</b> <a href="http://engpat.kipris.or.kr/engpat/searchLogina.do?next=MainSearch">
-		"Method for Estimating Integrity of Packet in Sensor Network".</a> 10-1948214. KIPO. <div class="pull-right"> 2019</div></li>
+		"Method for Estimating Integrity of Packet in Sensor Network".</a> Registration No: 1019482140000. KIPO. <div class="pull-right"> 2019</div></li>
 	
 	</ul>
 </li>
