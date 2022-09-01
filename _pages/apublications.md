@@ -29,7 +29,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						(in press, <i>IEEE Internet of Things Journal</i>)</li>
 
 
-						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2021. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i></li>
+						<li>Alsenwi, M., Tran, N. H., Bennis, M., <strong>Pandey, S.R.,</strong> Bairagi, A. K., Hong, C.S., 2021. <a href="https://arxiv.org/pdf/2003.07651.pdf">"Intelligent Resource Slicing for eMBB and URLLC Coexistence in 5G and Beyond: A Deep Reinforcement Learning Based Approach.", </a> (in press, <i>IEEE Transactions on Wireless Communications).</i> <font color="Red">(Popular Article) </font></li>
 
 						
 						<li><strong>Pandey, S.R.,</strong> Kim, K., Alsenwi, M., Tun, Y.K., Han, Z. and Hong, C.S., 2021. 
@@ -38,13 +38,13 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 						<li>Le, T.H.T., Tran, N.H., Tun, Y.K., Nguyen, M.N., <strong>Pandey, S.R.,</strong> Han, Z. and Hong, C.S., 2021. 
 						<a href="https://arxiv.org/abs/2009.10269" target="_blank">"An Incentive Mechanism for Federated Learning in Wireless Cellular network: An Auction Approach", </a>
-						(in press, <i>IEEE Transactions on Wireless Communications</i>)</li>		
+						(in press, <i>IEEE Transactions on Wireless Communications</i>) <font color="Red">(Popular Article) </font></li>		
 
 						<li>Zaw, C.W., <strong>Pandey, S.R.,</strong> Kim, K. and Hong, C.S., 2021.<a href="">"Energy-aware Resource Management for Federated Learning in Multi-access Edge Computing Systems.", </a>
 						(Accepted, <i>IEEE Access</i>)</li>						
 							
 						<li>Tun, Y.K., Park, Y.M., Tran, N.H., Saad, W., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2021.<a href="">"Energy-efficient resource management in UAV-assisted mobile edge computing.", </a>
-						(in press, <i>IEEE Communications Letters</i></li>
+						(in press, <i>IEEE Communications Letters</i> <font color="Red">(Popular Article)</font></li>
 						
 						 <li>Manzoor, A., Kazmi, S.A., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2021. <a href="">"Contract-based Scheduling of URLLC Packets in Incumbent EMBB Traffic", </a> 
 							(in press, <i>IEEE Access).</i></li>						
@@ -53,16 +53,16 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						<li><strong>Pandey, S.R.*,</strong> Khan, L. U.*, Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
 							Hong, C. S., Nov 2020. <a href="https://arxiv.org/abs/1911.05642" target="_blank">
 								"Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism.", </a> 
-									<i>IEEE Communications Magazine.</i></li>
+									<i>IEEE Communications Magazine.</i> <font color="Red">(Popular Article in Com. Mag since its pulication in Nov. 2020 - till date) </font></li>
 									
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong>Thar, K., Tran, N. H., Chen, M., Saad, W.,
 							Hong, C. S., 2020. <a href="https://arxiv.org/pdf/2003.09301.pdf" target="_blank">"Distributed and Democratized Learning: Philosophy
 							and Research Challenges", </a> (
-							<i>IEEE Computational Intelligence Magazine).</i></li>
+							<i>IEEE Computational Intelligence Magazine).</i> <font color="Red">(Popular Article) </font></li>
 				
 							
 						<li><strong>Pandey, S.R.,</strong> N. H. Tran, M. Bennis, Y. K. Tun, A. Manzoor, and C. S. Hong.,
-							2020. <a href="https://arxiv.org/abs/1911.01046" target="_blank">"A Crowdsourcing Framework for On-Device Federated Learning"", </a> (in press, <i>IEEE Transactions on Wireless Communications. DOI:10.1109/TWC.2020.2971981).</i></li>
+							2020. <a href="https://arxiv.org/abs/1911.01046" target="_blank">"A Crowdsourcing Framework for On-Device Federated Learning"", </a> (in press, <i>IEEE Transactions on Wireless Communications. DOI:10.1109/TWC.2020.2971981).</i> <font color="Red">(Popular Article in TWC) </font></li>
 
 						<li>Suhail, S.,  Hussain, R., Abdellatif, M., <strong>Pandey, S.R.,</strong> Khan, A. and Hong, C.S., 2020.
 							<a href="https://arxiv.org/pdf/1811.06143.pdf" target="_blank">"Provenance-enabled Packet Path Tracing in the RPL-based Internet of
