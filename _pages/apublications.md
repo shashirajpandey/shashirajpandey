@@ -53,7 +53,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						<li><strong>Pandey, S.R.*,</strong> Khan, L. U.*, Tran, N. H., Saad, W., Han, Z., Nguyen, M. N.,
 							Hong, C. S., Nov 2020. <a href="https://arxiv.org/abs/1911.05642" target="_blank">
 								"Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism.", </a> 
-									<i>IEEE Communications Magazine.</i> <font color="Red">(Popular Article in Com. Mag since its pulication in Nov. 2020 - till date) </font></li>
+									<i>IEEE Communications Magazine.</i> <font color="Red">(Top Popular Article in Com. Mag since its publication in Nov. 2020 - till date July 2022) </font></li>
 									
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong>Thar, K., Tran, N. H., Chen, M., Saad, W.,
 							Hong, C. S., 2020. <a href="https://arxiv.org/pdf/2003.09301.pdf" target="_blank">"Distributed and Democratized Learning: Philosophy
