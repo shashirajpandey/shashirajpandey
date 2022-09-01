@@ -44,7 +44,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 						(Accepted, <i>IEEE Access</i>)</li>						
 							
 						<li>Tun, Y.K., Park, Y.M., Tran, N.H., Saad, W., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2021.<a href="">"Energy-efficient resource management in UAV-assisted mobile edge computing.", </a>
-						(in press, <i>IEEE Communications Letters</i> <font color="Red">(Popular Article)</font></li>
+						(in press, <i>IEEE Communications Letters)</i> <font color="Red">(Popular Article)</font></li>
 						
 						 <li>Manzoor, A., Kazmi, S.A., <strong>Pandey, S.R.,</strong> and Hong, C.S., 2021. <a href="">"Contract-based Scheduling of URLLC Packets in Incumbent EMBB Traffic", </a> 
 							(in press, <i>IEEE Access).</i></li>						
