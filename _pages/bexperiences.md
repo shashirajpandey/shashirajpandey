@@ -4,6 +4,10 @@ title: Experiences
 permalink: /experiences/
 image: 
 ---
+<h2 align="center"> <font color="darkmagenta">Teaching </font></h2>
+<li> <strong>Dependable and Secure Distributed Systems ( CE7-NDS )</strong> <a href="" target="_blank"> Distriubted Ledge Technologies</a><div class="pull-right"> Fall 2020, Aalborg University</div>
+
+
 <h2 align="center"> <font color="darkmagenta">Industry Experience </font></h2>
 
 <li> <strong>Network Engineer</strong> <a href="https://www.huawei.com/en/" target="_blank"> Huawei Technologies Nepal Co. Pvt. Ltd</a><div class="pull-right"> 2013 - 2016</div>
