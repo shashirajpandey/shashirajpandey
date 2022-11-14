@@ -70,6 +70,8 @@ Collaborators: Kyung Hee University, KAIST, Seoul National University, Data Alli
 </li>
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
+<li> <strong> Invited Talk: </strong> "Data Valuation in IoT Data Market: Pricing, Privacy and Learning" at University of West England, UK. <div class="pull-right">02 Nov, 2022.</div>
+</li>
 <li> <strong> Webinar: </strong> "Science and Research: Scope, Opportunities and Challenges" at Hrit Academy, Kathmandu, Nepal. Slides here:  <a href="https://shashirajpandey.github.io/pdfs/see_nepali.pdf" target="_blank">in Nepali</a>, <a href="https://shashirajpandey.github.io/pdfs/see_english.pdf" target="_blank">in English</a><div class="pull-right">25 July, 2021.</div>
 </li>
 
