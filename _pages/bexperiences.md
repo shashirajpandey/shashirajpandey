@@ -5,7 +5,7 @@ permalink: /experiences/
 image: 
 ---
 <h2 align="center"> <font color="darkmagenta">Teaching </font></h2>
-<li> <strong>Dependable and Secure Distributed Systems ( CE7-NDS )</strong> <a href="" target="_blank"> Distriubted Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2022, Aalborg University</div>
+<li> <strong>Dependable and Secure Distributed Systems ( CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
