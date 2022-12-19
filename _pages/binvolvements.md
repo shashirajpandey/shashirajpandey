@@ -23,8 +23,11 @@ image:
     </ul>
   </li>
   <li><strong>Journal Reviewer</strong> 
+	
 	Please use: [firstname][r][101][at]gmail[dot]com ; shashiraj[at]khu[dot]ac[dot]kr ; srp[at]es[dot]aau[dot]dk
+	
     <ul>
+	    	<li>IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</li>
 	    	<li>IEEE Journal on Selected Areas in Communications (JSAC) - SI- Distributed Learning over Wireless Edge Networks</li>
 		<li>IEEE Journal on Selected Areas in Communications (JSAC) - Machine Learning on Communication and Networks (ML4ComNet)</li>
 		<li>IEEE Transactions on Cognitive Communications and Networking (TCCN)</li>
