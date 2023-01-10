@@ -7,6 +7,9 @@ image:
 <h2 align="center"> <font color="darkmagenta">Teaching </font></h2>
 <li> <strong>Dependable and Secure Distributed Systems ( CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
+<h2 align="center"> <font color="darkmagenta">Project Supervision (AAU) </font></h2>
+<li> Masters Level, <strong>CT-9 (25 ECTS)</strong> <a href="" target="_blank"> Q-learning for random access in age of information critical wireless sensor networks</a><div class="pull-right"> Fall 2022, Aalborg University</div>
+<li> Bachelors Level, <strong>ES-EIT5-516</strong> <a href="" target="_blank"> Surveillance and intruder tracking system for drones, "Tracking of drones in restricted airspace"</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
 <li> <strong> Invited Talk: </strong> "Decentralized Learning and IoT Data Market" at Future of Communications, Villum Investigator Grant, CNT Annual Workshop 2022, Aalborg University, Denmark. <a href="https://sites.google.com/view/cntworkshop2022/home" target="_blank">[Workshop Homepage]</a> <div class="pull-right">12 Dec, 2022.</div>
