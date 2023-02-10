@@ -16,6 +16,12 @@ image:
 
 
 <h2 align="center"> <font color="darkmagenta">Academic Service</font></h2>
+  <li><strong>Review Editor</strong>
+	<ul>
+	<li>Frontiers in Signal Processing</li>
+	<li>Frontiers in Communications and Networks</li>
+    </ul>
+  </li>
   <li><strong>Technical Program Committee</strong>
 	<ul>
 	<li>ACM EmeRTeS 2023 (Co-located with ACM ICDCN)</li>
