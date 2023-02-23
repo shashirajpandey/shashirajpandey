@@ -6,6 +6,7 @@ image:
 ---
 <h2 align="center"> <font color="darkmagenta">Collaborators</font></h2>
 <ul>
+	<li><a href="http://pierrepinson.com/" target="_blank"> Prof. Pierre Pinson</a>, Imperial College London, UK</li>
 	<li><a href="https://nguyenhoangtran.github.io/" target="_blank"> Prof. Nguyen H. Tran</a>, The University of Sydney, NSW, Australia</li>
 	<li><a href="https://sites.google.com/view/dr-mehdi-bennis/home" target="_blank"> Prof. Mehdi Bennis</a>, University of Oulu, Finland</li>
 	<li><a href="http://www2.egr.uh.edu/~zhan2/" target="_blank"> Prof. Zhu Han</a>, University of Houston, Texas, USA</li>
