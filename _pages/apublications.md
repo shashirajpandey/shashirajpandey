@@ -12,7 +12,9 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 	
 	<li>Bui, V.P., <strong>Pandey, S.R.</strong>, Chiariotti, F. and Popovski, P., 2023.<a href="https://arxiv.org/abs/2302.01672" target="_blank">"Game Networking and its Evolution towards Supporting Metaverse through the 6G Wireless Systems."</a>(under review, <i>IEEE Network.)</i></li>	
 	
-	<li>Bui, V.P., <strong>Pandey, S.R.</strong>, Chiariotti, F. and Popovski, P., 2023.<a href="https://arxiv.org/abs/2301.10962" target="_blank">"Scheduling Policy for Value-of-Information (VoI) in Trajectory Estimation for Digital Twins."</a>(under review)</li>	
+		<li>Le, T.H.T., Cantos, Luggi,  <strong>Pandey, S.R.,</strong> Shin, Hyundong and Kim, Y.H., 2023.<a href="" target="_blank">"Federated Learning with NOMA Assisted by Multiple Intelligent Reflecting Surfaces: Latency Minimizing Optimization and Auction."</a>(in press, <i>IEEE Transactions on Vehicular Technology)</li>
+	
+	<li>Bui, V.P., <strong>Pandey, S.R.</strong>, Chiariotti, F. and Popovski, P., 2023.<a href="https://arxiv.org/abs/2301.10962" target="_blank">"Scheduling Policy for Value-of-Information (VoI) in Trajectory Estimation for Digital Twins."</a>(in press, <i>IEEE Communications Letters)</li>	
 	
 	<li>Christensen, R.B., <strong>Pandey, S.R.,</strong> and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.06650" target="_blank">"Semi-Private Computation of Data Similarity with Controlled Leakage."</a>(in press, <i>IEEE Transactions on Information Forensics & Security.)</i></li>
 							<li><strong>Pandey, S.R.,</strong> Pinson, P., and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.07785" target="_blank">"Participation and Data Valuation in IoT Data Markets through Distributed Coalitions."</a><i>(under review)</i></li>
