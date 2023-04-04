@@ -15,6 +15,9 @@ image:
 <li> <strong> Invited Talk: </strong> "Decentralized Learning and IoT Data Market", Kathmandu University, Dhulikhel, Nepal. <a href="https://ku.edu.np/news-app/communications-and-information-processing-nepal-cip-n-seminar-?search_category=3&search_school=1&search_department=3&search_site_name=kudoeee&show_on_home=0" target="_blank">[Annoucement]</a> <div class="pull-right">16 March, 2023.</div>
 </li>
 
+<li> <strong> Invited Talk: </strong> "Semantic Communications: A Data Valuation Perspective" at NTT-AAU Workshop 2023, Aalborg University, Denmark. <div class="pull-right">2 March, 2023.</div>
+</li>
+
 <li> <strong> Invited Talk: </strong> "Decentralized Learning and IoT Data Market" at Future of Communications, Villum Investigator Grant, CNT Annual Workshop 2022, Aalborg University, Denmark. <a href="https://sites.google.com/view/cntworkshop2022/home" target="_blank">[Workshop Homepage]</a> <div class="pull-right">12 Dec, 2022.</div>
 </li>	
 
