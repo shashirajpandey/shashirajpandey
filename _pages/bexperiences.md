@@ -12,8 +12,12 @@ image:
 <li> Bachelors Level, <strong>ES-EIT5-516, </strong> <a href="" target="_blank"> Surveillance and intruder tracking system for drones, "Tracking of drones in restricted airspace"</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
+<li> <strong> Invited Talk: </strong> "Decentralized Learning and IoT Data Market", Kathmandu University, Dhulikhel, Nepal. <a href="https://ku.edu.np/news-app/communications-and-information-processing-nepal-cip-n-seminar-?search_category=3&search_school=1&search_department=3&search_site_name=kudoeee&show_on_home=0" target="_blank">[Annoucement]</a> <div class="pull-right">16 March, 2023.</div>
+</li>
+
 <li> <strong> Invited Talk: </strong> "Decentralized Learning and IoT Data Market" at Future of Communications, Villum Investigator Grant, CNT Annual Workshop 2022, Aalborg University, Denmark. <a href="https://sites.google.com/view/cntworkshop2022/home" target="_blank">[Workshop Homepage]</a> <div class="pull-right">12 Dec, 2022.</div>
 </li>	
+
 <li> <strong> Invited Talk: </strong> "Data Valuation in IoT Data Market: Pricing, Privacy and Learning" at University of West England, UK. <div class="pull-right">02 Nov, 2022.</div>
 </li>
 <li> <strong> Webinar: </strong> "Science and Research: Scope, Opportunities and Challenges" at Hrit Academy, Kathmandu, Nepal. Slides here:  <a href="https://shashirajpandey.github.io/pdfs/see_nepali.pdf" target="_blank">in Nepali</a>, <a href="https://shashirajpandey.github.io/pdfs/see_english.pdf" target="_blank">in English</a><div class="pull-right">25 July, 2021.</div>
