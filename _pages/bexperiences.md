@@ -12,7 +12,7 @@ image:
 <li> Bachelors Level, <strong>ES-EIT5-516, </strong> <a href="" target="_blank"> Surveillance and intruder tracking system for drones, "Tracking of drones in restricted airspace"</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
-<li> <strong> Invited Talk: </strong> "Intelligent Resource Slicing for eMBB-URLLC Coexistence in 5G", Kathmandu University, Dhulikhel, Nepal. <a href="https://cipn.ku.edu.np/?page_id=242(opens%20in%20a%20new%20tab" target="_blank">[Conference Homepage]</a> <div class="pull-right">6 April, 2023.</div>
+<li> <strong> Invited Talk: </strong> "Intelligent Resource Slicing for eMBB-URLLC Coexistence in 5G", CIP-N 2023, Kathmandu University, Dhulikhel, Nepal. <a href="https://cipn.ku.edu.np/?page_id=242(opens%20in%20a%20new%20tab" target="_blank">[Conference Homepage]</a> <div class="pull-right">6 April, 2023.</div>
 </li>	
 <li> <strong> Invited Talk: </strong> "Decentralized Learning and IoT Data Market", Kathmandu University, Dhulikhel, Nepal. <a href="https://ku.edu.np/news-app/communications-and-information-processing-nepal-cip-n-seminar-?search_category=3&search_school=1&search_department=3&search_site_name=kudoeee&show_on_home=0" target="_blank">[Annoucement]</a> <div class="pull-right">16 March, 2023.</div>
 </li>
