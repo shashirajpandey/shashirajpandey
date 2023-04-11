@@ -11,10 +11,6 @@ author:
   image: '/assets/img/profile.jpg'
   job: "a random thought scribbler"
   bio: "| Network Economics | Game Theory | Wireless Communications | Distributed Machine Learning |"
-  News4: "<b>Invited to serve as a Reviewer for NeurIPs 2023.</b>"  
-  News3: "Federated Learning with NOMA Assisted by Multiple Intelligent Reflecting Surfaces: Latency Minimizing Optimization and Auction, accepted in IEEE TVT."
-  News2: "Scheduling Policy for Value-of-Information (VoI) in Trajectory Estimation for Digital Twins, accepted in IEEE Communications Letters."
-  News1: "Semi-Private Computation of Data Similarity with Applications to Data Valuation and Pricing, accepted in IEEE TIFS." 
   email: shashir101@gmail.com
 
 
