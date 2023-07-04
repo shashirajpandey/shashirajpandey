@@ -25,6 +25,7 @@ image:
   </li>
   <li><strong>Technical Program Committee</strong>
 	<ul>
+	<li>WiOpt 2023 Workshop on Modeling and Optimization for Semantic Communications (MOSC)</li>		
 	<li>ACM EmeRTeS 2023 (Co-located with ACM ICDCN)</li>
 	<li>IEEE GLOBECOM 2022 NextGRAN Workshop</li>
     </ul>
