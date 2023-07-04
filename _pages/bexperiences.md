@@ -8,7 +8,8 @@ image:
 <li> <strong>Dependable and Secure Distributed Systems ( CE7-NDS )</strong> <a href="" target="_blank"> Distributed Ledger Technologies (DLT), Smart Contracts, Internet of Things (IoT)</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Project Supervision (AAU) </font></h2>
-<li> Masters Level, <strong>CT-9 (25 ECTS), </strong> <a href="" target="_blank"> Q-learning for random access in age of information critical wireless sensor networks</a><div class="pull-right"> Fall 2022, Aalborg University</div>
+<li> Masters Level, <strong>CT10-NDS (30 ECTS), </strong> <a href="" target="_blank"> Investigating the cost of ML-based fingerprinting localisation for integrated sensing and communication in cell-free massive MIMO systems</a><div class="pull-right"> Spring 2023, Aalborg University</div>
+<li> Masters Level, <strong>MATTEK-10 (30 ECTS), </strong> <a href="" target="_blank"> Client selection in FL on non-iid data using conformal prediction</a><div class="pull-right"> Spring 2023, Aalborg University</div>
 <li> Bachelors Level, <strong>ES-EIT5-516, </strong> <a href="" target="_blank"> Surveillance and intruder tracking system for drones, "Tracking of drones in restricted airspace"</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
