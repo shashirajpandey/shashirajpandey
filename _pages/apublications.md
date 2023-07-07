@@ -10,7 +10,7 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
 	
-	<li>Bui, V.P., <strong>Pandey, S.R.</strong>, Chiariotti, F. and Popovski, P., 2023.<a href="https://arxiv.org/abs/2302.01672" target="_blank">"Game Networking and its Evolution towards Supporting Metaverse through the 6G Wireless Systems."</a>(under review, <i>IEEE Network.)</i></li>	
+	<li>Bui, V.P., <strong>Pandey, S.R.</strong>, Chiariotti, F. and Popovski, P., 2023.<a href="https://arxiv.org/abs/2302.01672" target="_blank">"Game Networking Principles for Real-Time Social Networking in the Metaverse."</a>(under review, <i>IEEE Communications Magazine.)</i></li>	
 	
 		<li>Le, T.H.T., Cantos, Luggi,  <strong>Pandey, S.R.,</strong> Shin, Hyundong and Kim, Y.H., 2023.<a href="" target="_blank">"Federated Learning with NOMA Assisted by Multiple Intelligent Reflecting Surfaces: Latency Minimizing Optimization and Auction."</a>(in press, <i>IEEE Transactions on Vehicular Technology)</i></li>
 	
