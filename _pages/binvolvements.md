@@ -25,7 +25,7 @@ image:
   </li>
   <li><strong>Technical Program Committee</strong>
 	<ul>
-	li>IEEE GLOBECOM'23 - Workshop on "Semantic Communication for 6G (SC6G)", Malaysia. </li>
+	<li>IEEE GLOBECOM'23 - Workshop on "Semantic Communication for 6G (SC6G)", Malaysia. </li>
 	<li>VTC2023-Fall - Workshop on "Machine Learning and AI for Communications", Hongkong</li>
 	<li>WiOpt 2023 Workshop on Modeling and Optimization for Semantic Communications (MOSC)</li>		
 	<li>ACM EmeRTeS 2023 (Co-located with ACM ICDCN)</li>
