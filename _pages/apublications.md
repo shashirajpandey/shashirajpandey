@@ -5,7 +5,7 @@ permalink: /publications/
 image: 
 ---
 
-Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36AAAAAJ&hl=en" target="_blank"> google scholar profile </a> for a full list of publications. 
+Sporadic updates. Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36AAAAAJ&hl=en" target="_blank"> google scholar profile </a> for a full list of publications. 
 
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
@@ -109,6 +109,8 @@ Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36
 
 <h2 align="left"> <font color="darkmagenta">International Conferences </font></h2>
 <ol reversed>
+<li>Pandey, S.R., Bui, V.P. and Popovski, P., 2022.
+						<a href="https://arxiv.org/abs/2209.09775">"Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation", </a> PIMRC 2023-WS NAISC, Toronto, Canada</li>
     <li>Pandey, S.R., Nguyen, L.D. and Popovski, P., 2022.
 						<a href="https://arxiv.org/abs/2209.09775">"FedToken: Tokenized Incentives for Data Contribution in Federated Learning", </a> FL-NeurIPS'22. New Orleans, Louisiana, USA</li>
 	
