@@ -110,11 +110,10 @@ Sporadic updates. Please kindly visit my <a href="https://scholar.google.com/cit
 <h2 align="left"> <font color="darkmagenta">International Conferences </font></h2>
 <ol reversed>
 <li>Pandey, S.R., Bui, V.P. and Popovski, P., 2022.
-						<a href="https://arxiv.org/abs/2209.09775">"Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation", </a> PIMRC 2023-WS NAISC, Toronto, Canada</li>
+						<a href="https://arxiv.org/abs/2305.11633">"Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation", </a> PIMRC 2023-WS NAISC, Toronto, Canada</li>
     <li>Pandey, S.R., Nguyen, L.D. and Popovski, P., 2022.
 						<a href="https://arxiv.org/abs/2209.09775">"FedToken: Tokenized Incentives for Data Contribution in Federated Learning", </a> FL-NeurIPS'22. New Orleans, Louisiana, USA</li>
-	
-	
+		
     <li>Pandey, S.R., Kim, k., Alsenwi, M., Tun, Y.K. and Hong, C.S., 2021
 						<a href="#">"A Crowd-enabled Task Execution Approach in UAV Networks Towards Fog Computing", </a> 
 						IEEE International Conference on Big Data and Smart Computing (BigComp) 2021. Jeju Island, Korea. (Oral Presentation)</li>
