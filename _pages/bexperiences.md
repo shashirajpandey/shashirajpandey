@@ -17,7 +17,7 @@ image:
 <li> Bachelors Level, <strong>ES-EIT5-516, </strong> <a href="" target="_blank"> Surveillance and intruder tracking system for drones, "Tracking of drones in restricted airspace"</a><div class="pull-right"> Fall 2022, Aalborg University</div>
 
 <h2 align="center"> <font color="darkmagenta">Talks</font></h2>
-<li> <strong> UBISS 2023 </strong> "UBICOMP 2023 Summer School" at University of Oulu, Finland. <a href="https://ubicomp.oulu.fi/ubiss2023/workshops-instructors#WB" target="_blank">[Summer Schoool Homepage]</a> <div class="pull-right">17 June, 2023.</div>
+<li> <strong> UBISS 2023: </strong> "UBICOMP 2023 Summer School" at the University of Oulu, Finland. <a href="https://ubicomp.oulu.fi/ubiss2023/workshops-instructors#WB" target="_blank">[Workshop B Homepage]</a> <div class="pull-right">17 June, 2023.</div>
 </li>	
 <li> <strong> Invited Talk: </strong> "Value-of-Information (VoI) in Trajectory Estimation for Digital Twins" at Aalborg Robotic Challenge (ARC), Aalborg. Danish Data Science Academy (DDSA). <a href="https://www.mp.aau.dk/aalborg-robotics-challenge-kick-off-meeting-e76458" target="_blank">[Workshop Homepage]</a> <div class="pull-right">26 May, 2023.</div>
 </li>	
