@@ -17,7 +17,7 @@ Sporadic updates. Please kindly visit my <a href="https://scholar.google.com/cit
 	<li>Bui, V.P., <strong>Pandey, S.R.</strong>, Chiariotti, F. and Popovski, P., 2023.<a href="https://arxiv.org/abs/2301.10962" target="_blank">"Scheduling Policy for Value-of-Information (VoI) in Trajectory Estimation for Digital Twins."</a>(in press, <i>IEEE Communications Letters)</i></li>	
 	
 	<li>Christensen, R.B., <strong>Pandey, S.R.,</strong> and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.06650" target="_blank">"Semi-Private Computation of Data Similarity with Controlled Leakage."</a>(in press, <i>IEEE Transactions on Information Forensics & Security.)</i></li>
-							<li><strong>Pandey, S.R.,</strong> Pinson, P., and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.07785" target="_blank">"Participation and Data Valuation in IoT Data Markets through Distributed Coalitions."</a><i>(under review)</i></li>
+							<li><strong>Pandey, S.R.,</strong> Pinson, P., and Popovski, P., 2022.<a href="https://arxiv.org/abs/2206.07785" target="_blank">"Participation and Data Valuation in IoT Data Markets through Distributed Coalitions."</a>in press, <i>(IEEE Internet of Things Journal</i></li>
 	
 						<li>Nguyen, M. N., <strong>Pandey, S.R.,</strong> Dang, T.N., Huh, E.N., Hong, C.S., Tran, N. H. and Saad, W., 2022.<a href="https://arxiv.org/pdf/2007.03278.pdf">"Self-organizing Democratized Learning: Towards arge-scale Distributed Learning Systems."</a> (in press, <i>IEEE Transactions on Neural Networks and Learning Systems).</i></li>	
 	
@@ -109,7 +109,10 @@ Sporadic updates. Please kindly visit my <a href="https://scholar.google.com/cit
 
 <h2 align="left"> <font color="darkmagenta">International Conferences </font></h2>
 <ol reversed>
-<li>Pandey, S.R., Bui, V.P. and Popovski, P., 2022.
+<li>Bui, V.P., Dinh, T.Q., Leyva-Mayorga, I., Pandey, S.R., Lagunas, E. and Popovski, P., 2023.
+						<a href="https://arxiv.org/abs/2305.10119">"On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites", </a> IEEE Globecom 2023, Malaysia</li>
+
+<li>Pandey, S.R., Bui, V.P. and Popovski, P., 2023.
 						<a href="https://arxiv.org/abs/2305.11633">"Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation", </a> PIMRC 2023-WS NAISC, Toronto, Canada</li>
     <li>Pandey, S.R., Nguyen, L.D. and Popovski, P., 2022.
 						<a href="https://arxiv.org/abs/2209.09775">"FedToken: Tokenized Incentives for Data Contribution in Federated Learning", </a> FL-NeurIPS'22. New Orleans, Louisiana, USA</li>
