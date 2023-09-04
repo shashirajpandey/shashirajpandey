@@ -32,9 +32,15 @@ image:
 	<li>IEEE GLOBECOM 2022 NextGRAN Workshop</li>
     </ul>
   </li>
+  <li><strong>Conference Reviewer</strong>
+	<ul>
+	<li>ICLR 2024, NeurIPS 2023, IEEE Globecom, ICC (EML5G), 5G-WF, SmartGridComm, IWCMC.</li>
+    </ul>
+  </li>
+ 
   <li><strong>Journal Reviewer</strong> 
 	
-	Please use: [firstname][r][101][at]gmail[dot]com ; shashiraj[at]khu[dot]ac[dot]kr ; srp[at]es[dot]aau[dot]dk
+	Please use: [firstname][r][101][at]gmail[dot]com ; srp[at]es[dot]aau[dot]dk
 	
     <ul>
 	    	<li>IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</li>
@@ -55,11 +61,6 @@ image:
 		<li>IEEE Access</li>
 		<li> Elsevier Physical Communication (PHYCOM) </li>
 		<li>Journal of Communications and Networks (JCN)</li>
-    </ul>
-  </li>
-  <li><strong>Conference Reviewer</strong>
-	<ul>
-	<li>NeurIPS 2023, IEEE Globecom, ICC (EML5G), 5G-WF, SmartGridComm, IWCMC.</li>
     </ul>
   </li>
 
