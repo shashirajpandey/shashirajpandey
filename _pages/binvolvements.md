@@ -40,7 +40,7 @@ image:
  
   <li><strong>Journal Reviewer</strong> 
 	
-	Please use: [firstname][r][101][at]gmail[dot]com ; srp[at]es[dot]aau[dot]dk
+	Please use: shashir101[at]gmail.com ; srp@es.aau.dk
 	
     <ul>
 	    	<li>IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</li>
