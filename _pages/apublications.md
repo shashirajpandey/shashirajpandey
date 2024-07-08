@@ -7,6 +7,16 @@ image:
 
 Sporadic updates. Please kindly visit my <a href="https://scholar.google.com/citations?user=yFmz36AAAAAJ&hl=en" target="_blank"> google scholar profile </a> for a full list of publications. 
 
+<!-- Book Chapters -->
+<h2 align="left"> <font color="darkmagenta">Book Chapters</font></h2>
+<ol reversed>
+
+    <li>Pandey, S.R., Bui, V.P. and Popovski, P., 2024.
+						<a href="#">"Semantic and Goal-oriented Communication: A Data Valuation Perspective", </a> to be published by Wiley (editors: W. Saad, C. Chaccour, C. Thomas, and M. Debbah)</li>
+					
+	</ol>
+
+
 <h2 align="left"> <font color="darkmagenta">Journals </font></h2>
 <ol reversed>
 	
