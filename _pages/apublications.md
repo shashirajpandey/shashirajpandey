@@ -11,7 +11,7 @@ Sporadic updates. Please kindly visit my <a href="https://scholar.google.com/cit
 <h2 align="left"> <font color="darkmagenta">Book Chapters</font></h2>
 <ol reversed>
 
-    <li>Pandey, S.R., Bui, V.P. and Popovski, P., 2024.
+    <li>Shashi Raj Pandey, Van-Phuc Bui, Petar Popovski, 2024.
 						<a href="#">"Semantic and Goal-oriented Communication: A Data Valuation Perspective", </a> to be published by Wiley (editors: W. Saad, C. Chaccour, C. Thomas, and M. Debbah)</li>
 					
 	</ol>
